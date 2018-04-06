@@ -1,2 +1,2 @@
-# PNL
-Processamento de Linguagem Natural
+# PLN - Processamento de Linguagem Natural
+![image](pln01.jpeg)
